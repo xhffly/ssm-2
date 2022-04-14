@@ -11,7 +11,7 @@
 		<!-- 单元测试 -->
 		<dependency>
 			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<artifactId>junit23</artifactId>
 			<version>4.11</version>
 		</dependency>
 
