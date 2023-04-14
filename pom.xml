@@ -85,7 +85,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
-			<version>5.3.17</version>
+			<version>5.3.27</version>
 		</dependency>
 		<!-- 2)Spring DAO层 -->
 		<dependency>
@@ -107,7 +107,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.3.17</version>
+			<version>5.3.27</version>
 		</dependency>
 		<!-- 4)Spring test -->
 		<dependency>
